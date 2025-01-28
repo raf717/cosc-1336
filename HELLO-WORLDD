@@ -1,0 +1,2 @@
+git config --global user.email "Roberto.Avendano@tsc.edu"
+  git config --global user.name "Roberto Avendano"
